@@ -1,6 +1,6 @@
 Run a MFEV Validator
 Setting up a node
-Git clone Validator
+Git clone :https://github.com/MFEVOfficial/Become-Validator
 
 Create an Account
 
