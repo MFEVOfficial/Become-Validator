@@ -8,7 +8,7 @@ chmod +x openethereum
 ./openethereum account new --config ./node.toml
 Returned address like that 0x00aa39d30f0d20ff03a22ccfc30b7efbfca597c2
 
-Copy result address to mode.toml Ex:
+Copy result address to node.toml Ex:
 
 ...
 [account]
