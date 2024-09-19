@@ -27,7 +27,7 @@ Stake
 
 Stake
 
-To stake MFEV coin, all you should do is sending your MFEV coin to the MFEV Consensus contract address over the MBC network from the validator address. The MFEV Consensus contract address: 0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2 The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to MBC and send the MFEV coin to the Consensus contract address.
+To stake MFEV coin, all you should do is sending your MFEV coin to the MFEV Consensus contract address over the MBC network from the validator address. The MFEV Consensus contract address: 0xa0B4785393F6855b12F1bb99C58d8498E1E15cc2 The easiest way to do so, is to import your private key or key-store file to your favourite wallet (for example Metamask), switch network to MFEV and send the MFEV coin to the Consensus contract address.
 
 You can find your key-store (containing your private key) and the password for the created account in: /node/keys/MFEV/UTC--xxxx /node.pwd
 
